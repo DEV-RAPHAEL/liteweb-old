@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.liteweb.tech</loc>
+		<priority>1.00</priority>
+		<lastmod>2022-05-16</lastmod>
+	</url>
+	<url>
+		<loc>https://www.liteweb.tech/showcase.html</loc>
+		<priority>0.67</priority>
+		<lastmod>2022-05-16</lastmod>
+	</url>
+	<url>
+		<loc>https://www.liteweb.tech/scripts/request.php</loc>
+		<priority>0.33</priority>
+		<lastmod>2022-05-15</lastmod>
+	</url>
+</urlset>

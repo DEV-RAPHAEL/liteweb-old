@@ -1,0 +1,38 @@
+
+#header-text-text .bg-wrap {
+	background: #10d1c0;
+}
+
+#header-text-text .bg {
+	background-position: left top;
+	opacity: 0.19;
+	background-image: url('../images/bg-47.jpg');
+}#benefits-3col-6 .bg-wrap{
+    background: #eeeeee;
+}
+#testimonial-single-3 .bg-wrap {
+	background: #10d1c0;
+}
+#desc-text-img .bg-wrap {
+	background: #eeeeee;
+}
+#price-4col-2 .bg-wrap {
+	background: #10d1c0;
+}#testimonial-single-4 .bg-wrap {
+    background: #f4f5f6;
+}
+#testimonial-5col .bg-wrap {
+	background: #10d1c0;
+}#action-text-btn .bg {
+    background-image: url('../images/bg-6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.1;
+}
+#contact-form-2 .bg {
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 1;
+    background-image: url('../images/bg-11.jpg');
+}

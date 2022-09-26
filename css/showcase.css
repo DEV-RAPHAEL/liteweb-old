@@ -1,0 +1,24 @@
+b#header-text-img-3 .bg-wrap {
+	background: #10d1c0;
+}
+
+#header-text-img-3 .bg {
+    opacity: 0.26;
+}
+#gallery-3col-carousel .bg-wrap {
+    background-color: #f4f5f6;
+}
+#action-text-btn .bg {
+    background-image: url('../images/bg-6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.1;
+}
+#gallery-3col-carousel--0 .bg-wrap {
+    background-color: #f4f5f6;
+}
+/* This code comments out every website item in the showcase page */
+.section-carousel{
+    visibility: hidden;
+}
